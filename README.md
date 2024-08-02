@@ -1,2 +1,2 @@
 # steamnavigator
-Steam Game Reccomendation
+Steam Game Recommendation
